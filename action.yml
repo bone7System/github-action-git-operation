@@ -12,6 +12,7 @@ inputs:
   mode:
     description: 'Operation mode (merge-fast-forward)'
     required: true
+    defalut: merge-fast-forward
 
 outputs:
   changed:
